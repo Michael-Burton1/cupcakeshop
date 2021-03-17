@@ -1,0 +1,14 @@
+img{
+  width: 300px;
+  height: auto;
+}
+/* classes */
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.zombie {
+  color: blue;
+  font-family: cursive;
+}
